@@ -54,7 +54,46 @@
     ```
 ### Final step, re-enable SIP on your machine. 
 
+### Step 4, sync up VS CODE extensions.
 
+```
+code --install-extension 2gua.rainbow-brackets
+code --install-extension abusaidm.html-snippets
+code --install-extension alefragnani.project-manager
+code --install-extension be5invis.vscode-custom-css
+code --install-extension brpaz.file-templates
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension donjayamanne.githistory
+code --install-extension dzannotti.vscode-babel-coloring
+code --install-extension ecmel.vscode-html-css
+code --install-extension EditorConfig.EditorConfig
+code --install-extension EQuimper.react-native-react-redux
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension formulahendry.code-runner
+code --install-extension gamunu.vscode-yarn
+code --install-extension hnw.vscode-auto-open-markdown-preview
+code --install-extension HookyQR.beautify
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension leizongmin.node-module-intellisense
+code --install-extension leveluptutorials.theme-levelup
+code --install-extension ms-vscode.csharp
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension naumovs.color-highlight
+code --install-extension oderwat.indent-rainbow
+code --install-extension PKief.material-icon-theme
+code --install-extension ritwickdey.LiveServer
+code --install-extension Shan.code-settings-sync
+code --install-extension SmukkeKim.theme-setimonokai
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension WallabyJs.quokka-vscode
+code --install-extension whizkydee.material-palenight-theme
+code --install-extension whtouche.vscode-js-console-utils
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension zhuangtongfa.Material-theme
+```
 
 
 *References:*
