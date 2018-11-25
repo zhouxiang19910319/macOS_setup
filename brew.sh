@@ -35,8 +35,10 @@ brew cask install vlc
 brew cask install iina
 brew cask install bettertouchtool
 brew cask install istat-menus
+brew cask install opera
+brew cask install typora
 
-# Devel Casks
+# Deve Casks
 brew cask install sourcetree
 brew cask install github-desktop
 brew cask install slack
