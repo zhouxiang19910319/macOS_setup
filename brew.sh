@@ -37,6 +37,8 @@ brew cask install bettertouchtool
 brew cask install istat-menus
 brew cask install opera
 brew cask install typora
+brew cask install brackets
+
 
 # Deve Casks
 brew cask install sourcetree
