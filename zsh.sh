@@ -11,3 +11,5 @@ brew install zsh zsh-completions
 #install oh my zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
+#force git language to english
+export LC_ALL=en_US.UTF-8
