@@ -178,7 +178,7 @@ defaults write NSGlobalDomain AppleFontSmoothing -int 2
 ###############################################################################
 
 # Enable CUT in finder
-defaults write com.apple.finder AllowCutForItems 1
+# defaults write com.apple.finder AllowCutForItems 1
 
 # Finder: allow quitting via ⌘ + Q; doing so will also hide desktop icons
 # defaults write com.apple.finder QuitMenuItem -bool true
@@ -363,10 +363,10 @@ defaults write -g WebContinuousSpellCheckingEnabled -boolean true
 /usr/libexec/PlistBuddy "$HOME/Library/Preferences/com.apple.symbolichotkeys.plist" -c 'Add AppleSymbolicHotKeys:65:enabled bool false'
 
 # Remove Spotlight from menu bar (does not work! see README file about how to do this)
-sudo chmod 600 /System/Library/CoreServices/Search.bundle/Contents/MacOS/Search
+# sudo chmod 600 /System/Library/CoreServices/Search.bundle/Contents/MacOS/Search
 
 # Disable Notification Center (works after SIP is being disabled)
-launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
+# launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
 
 
 ###############################################################################
