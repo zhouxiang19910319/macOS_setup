@@ -30,7 +30,6 @@ brew cask install whatsapp
 brew cask install transmission
 brew cask install alfred
 brew cask alfred link
-brew cask install appcleaner
 brew cask install vlc
 brew cask install iina
 brew cask install bettertouchtool

@@ -27,6 +27,9 @@
 9. `sudo killall Spotlight`
 
 ### STEP 3: Install shell scripts
+
+* Put these .sh files into your home folder.
+
 * homebrew.sh
     ```
     chmod +x ./brew.sh
